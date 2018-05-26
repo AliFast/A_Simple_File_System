@@ -1,0 +1,12 @@
+Block Size = 50
+No. of Blocks = 100
+Max and Min Directory Name size = 2
+Max and Min File Name size = 2
+To go to Parent directory enter "pa"
+new block assignment address is saved at end of previous block(last 2 bytes)
+HD array is read from file named t1(provided with submission)
+minimum and max space required for new file and directory is 7
+this assignment was made in VS 2015 as no OS specific funtions were used
+
+You cannot change block size for this you to do some simple changes 
+to make the program dynamic.
